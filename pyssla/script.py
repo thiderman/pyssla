@@ -85,6 +85,6 @@ def main():
 
     if messages:
         for message in messages:
-            print message
+            print(message)
 
         sys.exit(1)
